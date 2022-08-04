@@ -1,5 +1,5 @@
 # Energy-Consumption-Forecasting
-Machine Learning model created through prophet to predict
+Machine Learning model created through prophet to predict Energy Consumption
 
 # Introduction
 
